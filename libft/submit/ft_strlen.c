@@ -14,7 +14,7 @@
 
 unsigned int ft_strlen(const char *c)
 {
-    int i;
+    unsigned int i;
 
     i = 0;
     while (c[i])
